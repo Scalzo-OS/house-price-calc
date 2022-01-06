@@ -1,0 +1,56 @@
+kitchen,Kettle,1.741021333,34.95
+kitchen,Toaster,0.277305,59
+kitchen,Fridge,7.788373151,398
+kitchen,Lighting,0.43785,68.06
+kitchen,Microwave,0.21407946,139.99
+kitchen,Dishwasher,15.7626,678
+kitchen,Coffee Machine,1.4541485,199.99
+kitchen,Blender,0.0267575,69
+kitchen,Slow cooker,0.490392,47
+kitchen,Electric Stove,5.37,2500
+kitchen,Electric Oven,3.1136,500
+kitchen,Extractor Fan,0.17514,130
+kitchen,Sink (Water),0.1125,500
+kitchen,Oven,1.3104,500
+kitchen,Stove,0.7056,1500
+kitchen,Ice cream maker,3,500
+living_room,TV,2.125032,1000
+living_room,Air Conditioning,3.5084,2500
+living_room,Shelving Unit,0,200
+living_room,Stereo,0.17514,200
+living_room,Sitting Chair,0,400
+living_room,Gas Fireplace,5.8968,2750
+living_room,Couch,0,1000
+living_room,Lamp,0.14595,25
+living_room,Dining Chair,0,200
+living_room,Stool,0,120
+living_room,WiFi Set Up,100,100
+living_room,DVD Player,0.1,60
+living_room,Console,0.71245,400
+living_room,Desk,0,400
+bedroom,Air Conditioning,3.5084,2500
+bedroom,Electric Heater,12.2598,200
+bedroom,Lamp,0.14595,25
+bedroom,Desk,0,200
+bedroom,Single Bed,0,200
+bedroom,Double Bed,0,300
+bathroom,Fan,0.17514,100
+bathroom,Electric Heater,6.1299,200
+bathroom,Heating lights (4 globes per housing),0.11676,100
+bathroom,Water (sink),0.1125,500
+bathroom,Shower,4.125,2000
+bathroom,Bath,3.75,3000
+bathroom,Toilet,1.35,350
+study,Desk,0,400
+study,Chair,0,150
+study,Electric Heater,6.1299,200
+study,Lamp,0.14595,25
+laundry,Sink (Water),0.1125,500
+laundry,Washing Machine,7.25,848
+laundry,Tumble Dryer,3,900
+laundry,Vacuum,1,500
+dining_room,Table,0,800
+dining_room,Lighting,0.43785,68.06
+dining_room,Electric Heater,6.1299,200
+dining_room,Stereo,0.17514,200
+dining_room,Air Conditioning,3.5084,2500
